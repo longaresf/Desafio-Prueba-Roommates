@@ -1,0 +1,22 @@
+{
+ "roommates": [
+  {
+   "id": "2575e553-afa5-453a-92dd-a41032aca77f",
+   "nombre": "Walter Willis",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "aa57c0f1-f125-499d-aef2-6292168546fb",
+   "nombre": "Terri Schmidt",
+   "debe": "",
+   "recibe": ""
+  },
+  {
+   "id": "06a357d4-2690-4328-a24f-d68642b442eb",
+   "nombre": "Massimiliano Roussel",
+   "debe": "",
+   "recibe": ""
+  }
+ ]
+}

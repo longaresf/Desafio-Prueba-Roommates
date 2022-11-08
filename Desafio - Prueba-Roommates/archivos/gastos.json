@@ -1,0 +1,16 @@
+{
+ "gastos": [
+  {
+   "roommate": "Walter Willis",
+   "descripcion": "Artículos de cocina",
+   "monto": 25000,
+   "id": "f8817c88-54df-4636-806f-d12c9927ad3c"
+  },
+  {
+   "roommate": "Massimiliano Roussel",
+   "descripcion": "Artículos de baño",
+   "monto": 8500,
+   "id": "83edd6ec-16b2-481a-8f3c-728a7f46bacc"
+  }
+ ]
+}
